@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Two Sum - Leetcode #1"
-tags: [leetcode, array, hash]
+title: SinoPac_DataEngineer
 ---
 
 ### 🧩 Problem
