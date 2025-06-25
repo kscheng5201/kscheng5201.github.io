@@ -7,4 +7,13 @@ title: Welcome
 
 Here you'll find my personal notes and solutions for various coding quizzes.
 
-[Browse All Quizzes](./_posts/)
+# 📝 All Quizzes
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%b %-d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
+
