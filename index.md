@@ -2,5 +2,9 @@
 layout: default
 title: Welcome
 ---
-# My Coding-Quiz Notebook
-I’ll publish every quiz I solve here.
+
+# 👋 Welcome to My Coding Quiz Blog
+
+Here you'll find my personal notes and solutions for various coding quizzes.
+
+[Browse All Quizzes](./quizzes/)
