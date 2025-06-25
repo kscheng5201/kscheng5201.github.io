@@ -1,5 +1,7 @@
 ---
+layout: post
 title: SinoPac_DataEngineer
+tags: [interview, leetcode]
 ---
 
 ### 🧩 Problem
