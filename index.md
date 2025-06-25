@@ -7,4 +7,4 @@ title: Welcome
 
 Here you'll find my personal notes and solutions for various coding quizzes.
 
-[Browse All Quizzes](./quizzes/)
+[Browse All Quizzes](./_posts/)
