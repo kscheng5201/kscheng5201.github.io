@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SinoPac_DataEngineer
+permalink: /quizzes/sinopac-dataengineer/
 ---
 
 
