@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google_DataEngineer
-permalink: /quizzes/google-dataengineer/
 ---
 
 
