@@ -15,7 +15,7 @@ Welcome! Here’s a list of all coding quizzes I’ve written up, organized by c
 
 <ul>
   {% for post in site.posts %}
-    {% assign parts = post.title | split: "-" %}
+    # {% assign parts = post.title | split: "-" %}
     {% assign company = parts[0] %}
     # {% assign position = parts[1] | default: "Unknown Role" %}
     <li>
