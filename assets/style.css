@@ -1,0 +1,31 @@
+/* assets/style.css */
+
+/* Add border and padding to all tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f8f8f8;
+}
+
+/* Optional: spacing for code blocks, headings, etc. */
+pre, code {
+  background-color: #f4f4f4;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+}
+
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+}
