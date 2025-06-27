@@ -81,6 +81,13 @@ author: K.S. Cheng
    
 ### 🧩 基礎題
 
+   **📊 資料表 users 欄位內容如下**
+   | id  | name   | gender    | age | hobby      |
+   |-----|--------|-----------|-----|------------|
+   | 1   | John   | male      | 23  | basketball |
+   | 2   | Mary   | female    | 32  | baseball   |
+   | 3   | Tom    | both      | 25  | sleep      |
+
 
 ### 💡 Thought Process
 
