@@ -67,16 +67,16 @@ author: K.S. Cheng
 
    
 11. There is a table named Organ. Now we want to find out the Organ which OrganID starts with BR. We'll execute the following SQL statement. Which is the most appropriate command to fill in the blank?
+    
+    SELECT OrganName From Organ WHERE ______ = 'BR'
 
-   SELECT OrganName From Organ WHERE ______ = 'BR'
+    A. SUBSTRING(OrganID, 2)
 
-   A. SUBSTRING(OrganID, 2)
+    B. SUBSTRING(OrganID, 2, 2)
 
-   B. SUBSTRING(OrganID, 2, 2)
+    C. LEFT(OrganID, 2)
 
-   C. LEFT(OrganID, 2)
-
-   D. CHARINDEX(OrganID, 2)
+    D. CHARINDEX(OrganID, 2)
 
    
 ### 🧩 基礎題
