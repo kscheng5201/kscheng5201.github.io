@@ -8,20 +8,77 @@ author: K.S. Cheng
 ### 🧩 選擇題
 
 1. 執行 SQL 查詢，何種指令可把兩段 SELECT 查詢結果（相同欄位）串連起來一併呈現？
-
+   
    A. UNION
+   
    B. With(NOLOCK)
+
    C. SELECT DISTINCT
+   
    D. SELECT COUNT()
 
    
-3. There is a table named Organ. Now we want to execute the following SQL statement and add a new column BRNO. Which commands should we use?
-4. 有一個名為 Log 的資料表，它包含約五百萬筆資料列，每次搜尋都需要很久時間，以下何項可讓搜尋更有效率？
-5. 以下哪項語法可從 CUST 資歷表取出前 10 筆資料列？
-6. 以下 SQL 指令語法，空格內放入何項無誤？
-7. There is a table named Organ. Now we want to find out the Organ which OrganID starts with BR. We'll execute the following SQL statement. Which is the most appropriate command to fill in the blank? SELECT OrganName From Organ WHERE ______ = 'BR'
+2. There is a table named Organ. Now we want to execute the following SQL statement and add a new column BRNO. Which commands should we use?
+  
+   ________ TABLE Organ ________ BRNO varchar(10);
+   
+   A. ALTER, CREATE
+   
+   B. MODIFY, CREATE
 
+   C. ALTER, ADD
+   
+   D. MODIFY, ADD
 
+   
+5. 有一個名為 Log 的資料表，它包含約五百萬筆資料列，每次搜尋都需要很久時間，以下何項可讓搜尋更有效率？
+
+   A. 子查詢
+   
+   B. 觸發程序
+
+   C. 資料指標
+   
+   D. 索引
+
+   
+7. 以下哪項語法可從 CUST 資歷表取出前 10 筆資料列？
+
+   A. SELECT * FROM CUST WHERE rowcount <= 10
+
+   B. SELECT TOP of 10 * FROM CUST
+
+   C. SELECT * FROM CUST WHERE rowcount = 10
+
+   D. SELECT TOP 10 * FROM CUST
+
+   
+9. 以下 SQL 指令語法，空格內放入何項無誤？
+
+   SELECT ________ FROM Employee
+
+   A. COLUMNS(*)
+
+   B. SUM(Salary)
+
+   C. TOTAL(Salary)
+
+   D. COUNTS(Salary)
+
+   
+11. There is a table named Organ. Now we want to find out the Organ which OrganID starts with BR. We'll execute the following SQL statement. Which is the most appropriate command to fill in the blank?
+
+   SELECT OrganName From Organ WHERE ______ = 'BR'
+
+   A. SUBSTRING(OrganID, 2)
+
+   B. SUBSTRING(OrganID, 2, 2)
+
+   C. LEFT(OrganID, 2)
+
+   D. CHARINDEX(OrganID, 2)
+
+   
 ### 🧩 基礎題
 
 
