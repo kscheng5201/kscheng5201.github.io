@@ -1,23 +1,26 @@
 /* assets/style.css */
 
-/* Add border and padding to all tables */
+/* Compact and clean table style */
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: auto; /* or max-width: 100% */
+  table-layout: auto; /* allow natural sizing */
 }
 
 table, th, td {
-  border: 1px solid #ddd;
+  border: 1px solid #ccc;
 }
 
 th, td {
-  padding: 8px;
+  padding: 4px 8px;  /* reduced padding */
   text-align: left;
+  white-space: nowrap; /* prevent line breaks */
 }
 
 th {
   background-color: #f8f8f8;
 }
+
 
 /* Optional: spacing for code blocks, headings, etc. */
 pre, code {
