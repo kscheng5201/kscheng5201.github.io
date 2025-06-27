@@ -82,6 +82,7 @@ author: K.S. Cheng
 ### 🧩 基礎題
 
    **📊 資料表 users 欄位內容如下**
+   
    | id  | name   | gender    | age | hobby      |
    |-----|--------|-----------|-----|------------|
    | 1   | John   | male      | 23  | basketball |
