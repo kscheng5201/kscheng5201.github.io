@@ -15,14 +15,13 @@ Welcome! Here’s a list of all coding quizzes I’ve written up, organized by c
 
 <ul>
   {% for post in site.posts %}
-    # {% assign parts = post.title | split: "-" %}
-    {% assign company = parts[0] %}
-    # {% assign position = parts[1] | default: "Unknown Role" %}
+    {% assign parts = post.title | split: "-" %}
+    {% assign company = parts[0] | strip %}
+    {% assign position = parts[1] | strip %}
     <li>
       <a href="{{ post.url }}">
-        <strong>{{ company }}</strong> – {{ position }}
+        {{ company }} – {{ position | default: "Unknown Role" }} ({{ post.date | date: "%Y-%m-%d" }})
       </a>
-      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
     </li>
   {% endfor %}
 </ul>
