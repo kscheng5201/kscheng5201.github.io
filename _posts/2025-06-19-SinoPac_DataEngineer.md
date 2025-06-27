@@ -5,7 +5,7 @@ author: K.S. Cheng
 ---
 
 
-### 🧩 選擇題
+### 🧩 一、選擇題
 
 1. 執行 SQL 查詢，何種指令可把兩段 SELECT 查詢結果（相同欄位）串連起來一併呈現？
    
@@ -79,7 +79,7 @@ author: K.S. Cheng
     D. CHARINDEX(OrganID, 2)
 
    
-### 🧩 基礎題
+### 🧩 二、基礎題
 
    **📊 資料表 users 欄位內容如下**
    
@@ -100,6 +100,15 @@ author: K.S. Cheng
    |-----|--------|-----------|-----|------------|
    | 4   | Gary   | male      | 50  | coding     |
    
+### 🧩 三、應用題
+
+- 訂單資料表：SalesOrderDetail
+  - 產品識別碼：ProductID
+  - 訂單數量：OrderQty
+  - 訂單金額：LineTotal
+
+4. 使用 HAVING、AVG、SUM 等聚合函數，顯示產品識別碼、平均訂單數量，與訂單總計；從訂單資料表，依產品識別碼（ProductID）來分組，只顯示包括訂單總計超出 $1,000,000.00，且平均訂單數量小於 3 的產品群組，最後按照訂單總計由大到小排序。
+
 
 ### 💡 Thought Process
 
