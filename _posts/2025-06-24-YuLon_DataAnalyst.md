@@ -54,18 +54,3 @@ author: K.S. Cheng
    C. 您如何判斷生成式 AI 產出的內容是否正確且可靠？
 
    D. 您認為生成式 AI 的優點和限制是什麼？
-
-   
-### 💡 Thought Process
-
-- Use a hashmap to check for complements...
-
-### ✅ Solution (Python)
-
-```python
-def twoSum(nums, target):
-    lookup = {}
-    for i, num in enumerate(nums):
-        if target - num in lookup:
-            return [lookup[target - num], i]
-        lookup[num] = i
