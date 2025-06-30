@@ -123,7 +123,7 @@ author: K.S. Cheng
    |------------|--------|-----------|-----------|------------|---------|
    | Txn_Date   | Type   | Sub_Type  | Amount    | Acct_Nbr   | Memo    |
 
-
+\n
 
    | Txn_Date   | Type   | Sub_Type  | Amount    | Acct_Nbr   | Memo    |
    |------------|--------|-----------|-----------|------------|---------|
