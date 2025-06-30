@@ -124,6 +124,7 @@ author: K.S. Cheng
    | Txn_Date   | Type   | Sub_Type  | Amount    | Acct_Nbr   | Memo    |
 
 
+
    | Txn_Date   | Type   | Sub_Type  | Amount    | Acct_Nbr   | Memo    |
    |------------|--------|-----------|-----------|------------|---------|
    | 20230401   | 支出    | 旅遊      | 10000      | 1234       | 銀行帳號 |
@@ -140,11 +141,13 @@ author: K.S. Cheng
    | 20230606   | 支出    | 餐食      |   800      | 8888       |  信用卡  |
 
 
+
 第二張表
 
    | 帳號        | 交易銀行    |
    |------------|------------|
    | Acct_Nbr   | Txn_Bank   |
+
 
 
    | Acct_Nbr   | Txn_Bank   |
