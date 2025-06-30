@@ -9,6 +9,7 @@ author: K.S. Cheng
 ## 🧩 資料庫專業人員
 
 1. 在考慮資料庫的需求時，除了使用者的需求外，資料庫的完整、安全等也要考慮。若某公司的總公司在台北，分公司在高雄，最適當的備份機制是哪一種？
+
    A. 線上備份（On-line backup）
    B. 離線備份（Off-line backup）
    C. 漸進備份（Incremental backup）
