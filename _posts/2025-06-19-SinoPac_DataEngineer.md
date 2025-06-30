@@ -4,6 +4,7 @@ title: SinoPac-DataEngineer
 author: K.S. Cheng
 ---
 
+> **永豐金控｜數據工程師**
 
 ## 🧩 一、選擇題
 
@@ -154,6 +155,7 @@ author: K.S. Cheng
 
 
 ## 🧩 五、問答題
+
 - 四份資料表，欄位內容如下：
 
 A. EMP（員工主檔：理專編號、理專姓名、隸屬分行名稱）
