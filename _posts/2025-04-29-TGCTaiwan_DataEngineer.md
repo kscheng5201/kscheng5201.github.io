@@ -106,66 +106,66 @@ author: K.S. Cheng
 
 
 10. `def greet(name): print("Hello, " + name)` 中的 name 是？
+    
+    A. 字串
 
-   A. 字串
-   
-   B. 變數
-   
-   C. 參數
-   
-   D. 類別
+    B. 變數
+
+    C. 參數
+
+    D. 類別
 
 
 11. 哪一個 list comprehension 會回傳所有奇數？
-   
-   A. [x for x in range(10) if x % 2 == 0]
-   
-   B. [x for x in range(10) if x % 2 != 0]
-   
-   C. [x for x in range(10) if x % 2 == 1]
-   
-   D. B 和 C
+
+    A. [x for x in range(10) if x % 2 == 0]
+
+    B. [x for x in range(10) if x % 2 != 0]
+
+    C. [x for x in range(10) if x % 2 == 1]
+
+    D. B 和 C
 
 
 12. 若 `def add(a, b=2): return a + b`，則 add(3) 回傳？
-   
-   A. 2
-   
-   B. 3
-   
-   C. 5
-   
-   D. TypeError
+
+    A. 2
+
+    B. 3
+
+    C. 5
+
+    D. TypeError
 
 
 13. 若你想繼承一個類別，應使用哪個語法？
 
-   A. class B -> A:
-   
-   B. class B inherit A: 
-   
-   C. class B(A):
-   
-   D. class B = A()
+    A. class B -> A:
+
+    B. class B inherit A:
+
+    C. class B(A):
+
+    D. class B = A()
 
 
 14. 哪一個是 Python 中的錯誤類別？
 
-   A. SyntaxException
-   
-   B. ValueError
-   
-   C. RuntimeIssue
-   
-   D. IndexException
+    A. SyntaxException
+
+    B. ValueError
+
+    C. RuntimeIssue
+
+    D. IndexException
 
    
 15. 若 `d = {"a": 1, "b": 2}`，則 d.get("c", 0) 的值為？
 
-   A. None
-   
-   B. KeyError
-   
-   C. 0
-   
-   D. "c"
+    A. None
+
+    B. KeyError
+
+    C. 0
+
+    D. "c"
