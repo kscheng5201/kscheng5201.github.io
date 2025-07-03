@@ -55,7 +55,7 @@ author: K.S. Cheng
    D. 定期查看各資料表之索引（Index）的使用狀況
 
 
-5. 請參閱附圖作答：
+5. 如果將下面的實體關係圖轉換成兩個資料表，其結果為何？
 
    ![ERD Diagram](/assets/TasaMeng_1.svg)
 
@@ -68,7 +68,7 @@ author: K.S. Cheng
    D. 病患（身分證號、姓名、診治），醫師（代號、職稱、姓名）
 
    
-7. 根據下列 SQL 指令，何者描述正確？
+6. 根據下列 SQL 指令，何者描述正確？
 
    ```
    CREATE TABLE Student (
