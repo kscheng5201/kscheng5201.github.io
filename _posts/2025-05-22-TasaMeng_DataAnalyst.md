@@ -55,7 +55,9 @@ author: K.S. Cheng
    D. 定期查看各資料表之索引（Index）的使用狀況
 
 
-5. 請參閱復讀作答：
+5. 請參閱附圖作答：
+
+   ![ERD Diagram](./assets/TasaMeng_1.svg)
 
    A. 病患（身分證號、姓名），醫師（代號、職稱、姓名、診治）
 
