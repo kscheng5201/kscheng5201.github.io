@@ -57,7 +57,7 @@ author: K.S. Cheng
 
 5. 請參閱附圖作答：
 
-   ![ERD Diagram](./assets/TasaMeng_1.svg)
+   ![ERD Diagram](/assets/TasaMeng_1.svg)
 
    A. 病患（身分證號、姓名），醫師（代號、職稱、姓名、診治）
 
