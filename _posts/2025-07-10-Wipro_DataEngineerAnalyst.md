@@ -2,7 +2,7 @@
 layout: post
 title: Wipro_DataEngineerAnalyst
 author: K.S. Cheng
-status: 
+status: completed
 ---
 
 > **Wipro｜資料工程師／資料分析師**
@@ -111,3 +111,19 @@ On 2013-10-03:
   - The request with Id=8 was made by a banned client, so it is ignored.
   - Hence there are 2 unbanned request in total, 1 of which were canceled.
   - The Cancellation Rate is (1 / 2) = 0.50
+
+
+
+## 🧩 Prescreen Questions
+
+  - Which data visualization tools are you proficient in? Please describe your experience with each.
+    
+  - Can you provide examples of dashboards or reports you've created, and describe the insights they provided?
+
+  - Describe your experience with data manipulation using spreadsheet software like Google Sheets. Can you give an example of a complex data transformation you've performed?
+
+  - What is your experience level with SQL? Can you describe a scenario where you used SQL to extract or transform data?
+
+  - Tell me about the most complex project you were part of that went poorly. (Follow-ups: What was your role? What went wrong? What unplanned problems arose and how did you deal with them? What lessons did you learn? What was one thing you did to make it more successful or get it back on track?)
+
+  - Tell me about a project for which you lacked key information or direction but needed to make progress. (Follow-ups: In order to proceed, what resources did you consult? When consulting those resources, how did you determine which data points were most important? Did you encounter any obstacles other than lack of information and how did you overcome them? What was the eventual outcome? If faced with the same situation in the future, what would you do differently?)
