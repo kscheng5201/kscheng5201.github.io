@@ -2,6 +2,7 @@
 layout: post
 title: TGC Taiwan-DataEngineer
 author: K.S. Cheng
+status: completed
 ---
 
 > **替您錄科技｜資料工程師**
