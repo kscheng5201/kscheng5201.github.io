@@ -8,7 +8,7 @@ author: K.S. Cheng
 
 ## 資料表關聯圖
 
-
+   ![ERD Diagram](/assets/Genuine_DBAmin.svg)
 
 
 ## 資料表內容
