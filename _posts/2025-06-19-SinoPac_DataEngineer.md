@@ -2,6 +2,7 @@
 layout: post
 title: SinoPac-DataEngineer
 author: K.S. Cheng
+status: completed
 ---
 
 > **永豐金控｜數據工程師**
@@ -150,7 +151,9 @@ author: K.S. Cheng
 
 
 5. 計算出各種類型細項的花費，並依總金額由大到小排序。列示欄位包含：類型細項、金額總計。
+
 6. 使用 JOIN 將這兩張表串聯在一起，結合成一張總表，並按照日期排序。
+
 7. 使用 LIKE 或 IN，列出 Sarah 在 5 月份的支出交易明細：金額大於 1,200 元，且交易銀行為永豐或者兆豐、匯豐的資料。列示欄位包含：日期、交易銀行、類型細項、金額。 
 
 
