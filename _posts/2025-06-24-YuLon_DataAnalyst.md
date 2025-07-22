@@ -2,6 +2,7 @@
 layout: post
 title: YuLon-DataAnalyst
 author: K.S. Cheng
+status: completed
 ---
 
 > **裕隆集團總管理處｜探勘數據分析師**
